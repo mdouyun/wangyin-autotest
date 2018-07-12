@@ -1,10 +1,3 @@
-/*
- * @(#)ZKClient  1.0 2015-03-19
- *
- * Copyright 2009 chinabank payment All Rights Reserved.
- * PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
- * Author Email: yfchenyun@jd.com
- */
 package com.wangyin.autotest.zk;
 
 import com.wangyin.autotest.dto.DubboProvider;

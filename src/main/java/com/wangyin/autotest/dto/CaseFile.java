@@ -1,10 +1,3 @@
-/*
- * @(#)CaseFile  1.0 2015-03-25
- *
- * Copyright 2009 chinabank payment All Rights Reserved.
- * PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
- * Author Email: yfchenyun@jd.com
- */
 package com.wangyin.autotest.dto;
 
 /**

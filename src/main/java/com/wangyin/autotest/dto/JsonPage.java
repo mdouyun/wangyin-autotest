@@ -1,10 +1,3 @@
-/*
- * @(#)JsonPage  1.0 2014-06-27
- *
- * Copyright 2009 chinabank payment All Rights Reserved.
- * PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
- * Author Email: yfchenyun@jd.com
- */
 package com.wangyin.autotest.dto;
 
 import java.util.ArrayList;
